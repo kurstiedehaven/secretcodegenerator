@@ -15,7 +15,10 @@ Chat GPT helped with concatenating and allChars piece of code.
 
 ## Link to Deployed Application
 
+https://kurstiedehaven.github.io/secretcodegenerator/
+
 ## Photo
+![Screenshot 2023-10-05 at 9 44 24 PM](https://github.com/kurstiedehaven/secretcodegenerator/assets/134163209/b73c8fdd-a9f5-453f-888e-d5dd6975462d)
 
 ---
 
