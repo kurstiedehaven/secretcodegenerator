@@ -23,6 +23,7 @@ function generatePassword() {
     return generatePassword();
   }
 
+  // if a user selects an option, it is stored to the allChars variable.
   var allChars = [];
   if (upperCaseChoice) {
     allChars = allChars.concat(upperCase);
@@ -36,7 +37,7 @@ function generatePassword() {
   if (specialCharChoice) {
     allChars = allChars.concat(specialChars);
   }
-
+// generate random password based off of users selections
   var password = "";
   for (var i = 0; i < numCharsChoice; i++) {
     var randomIndex = Math.floor(Math.random() * allChars.length);
