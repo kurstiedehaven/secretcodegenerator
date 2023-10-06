@@ -1,4 +1,4 @@
-# secret_code_generator
+# secretcodegenerator
 
 ## Purpose
 
